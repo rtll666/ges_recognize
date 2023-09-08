@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Fri Sep 08 14:50:19 2023
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Standard Edition
+Revision Name : ges_recognize
+Top-level Entity Name : ges_recognize
+Family : Cyclone IV E
+Total logic elements : 1,233
+    Total combinational functions : 948
+    Dedicated logic registers : 749
+Total registers : 749
+Total pins : 23
+Total virtual pins : 0
+Total memory bits : 45,056
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

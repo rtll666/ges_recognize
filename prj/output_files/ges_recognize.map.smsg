@@ -1,0 +1,2 @@
+Info (10281): Verilog HDL Declaration information at i2c_ctrl.v(23): object "SLAVE_ADDR" differs only in case from object "slave_addr" in the same scope File: D:/Practical_training/DAY_7/ges_recognize/rtl/i2c_ctrl.v Line: 23
+Info (10281): Verilog HDL Declaration information at i2c_ctrl.v(27): object "DEVICE_ADDR" differs only in case from object "device_addr" in the same scope File: D:/Practical_training/DAY_7/ges_recognize/rtl/i2c_ctrl.v Line: 27

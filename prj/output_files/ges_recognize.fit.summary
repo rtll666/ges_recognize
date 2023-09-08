@@ -1,0 +1,16 @@
+Fitter Status : Successful - Fri Sep 08 14:50:26 2023
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Standard Edition
+Revision Name : ges_recognize
+Top-level Entity Name : ges_recognize
+Family : Cyclone IV E
+Device : EP4CE6F17C8
+Timing Models : Final
+Total logic elements : 1,219 / 6,272 ( 19 % )
+    Total combinational functions : 950 / 6,272 ( 15 % )
+    Dedicated logic registers : 749 / 6,272 ( 12 % )
+Total registers : 749
+Total pins : 23 / 180 ( 13 % )
+Total virtual pins : 0
+Total memory bits : 45,056 / 276,480 ( 16 % )
+Embedded Multiplier 9-bit elements : 0 / 30 ( 0 % )
+Total PLLs : 0 / 2 ( 0 % )
